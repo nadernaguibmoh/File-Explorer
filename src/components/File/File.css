@@ -1,0 +1,12 @@
+.file {
+    padding: 4px 0;
+    cursor: default;
+  }
+  
+  .icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  
